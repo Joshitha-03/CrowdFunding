@@ -12,10 +12,7 @@ const AboutUs = () => {
       <div className={styles.container}>
         <h1 className={styles.header}>CONTACT US</h1>
         <div className={styles.content}>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vero
-          consequatur ea quia inventore excepturi officiis deserunt sequi, esse
-          nobis laudantium tempora aut, animi praesentium id! Necessitatibus
-          laborum vitae vero at!
+        Feel free to reach out to us for any inquiries, collaborations, or support. Visit our campus, email us, or connect through social media. We’re here to help and look forward to hearing from you!
           <br />
           <br />
           <div className={styles.map}>
